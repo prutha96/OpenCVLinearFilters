@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">FirstOpenCVApp</string>
+    <string name="action_load_image">Load Image</string>
+
+    <string name="bMean">Mean Blur</string>
+    <string name="bGaussian">Gaussian Blur</string>
+    <string name="bMedian">Median Blur</string>
+    <string name="bSharpen">Sharpen</string>
+    <string name="bDilate">Dilate</string>
+    <string name="bErode">Erode</string>
+    <string name="bBinaryThreshold">Binary Threshold</string>
+    <string name="bBinaryInvThreshold">Binary Inverse Threshold</string>
+    <string name="bTruncThreshold">Truncate Threshold</string>
+    <string name="bToZeroThreshold">To Zero Threshold</string>
+    <string name="bToZeroInvThreshold">To Zero Inverse Threshold</string>
+    <string name="bMeanAdaptiveThreshold">Adaptive Threshold (Mean)</string>
+    <string name="bGaussianAdaptiveThreshold">Adaptive Threshold (Gaussian)</string>
+
+    <string name="ivImage">Image Loaded from Memory</string>
+    <string name="ivImageProcessed">Processed Image</string>
+</resources>
